@@ -77,7 +77,7 @@ const SignUp = () => {
           </Button>
         </Form.Item>
         <Text>
-          Already have an account? <Link to="/auth/sign-in">Sign Ip</Link>
+          Already have an account? <Link to="/auth/sign-in">Sign In</Link>
         </Text>
       </Form>
     </div>
